@@ -1,6 +1,6 @@
 # Speech Processing Toolkit
 
-A collection of Python scripts for speech processing tasks including transcription, diarization, voice assistance, and speech-to-speech translation.
+A collection of Python Projects for speech processing tasks including transcription, diarization, voice assistance, and speech-to-speech translation.
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Models-yellow.svg)](https://huggingface.co/)
